@@ -1,0 +1,27 @@
+{
+  "name": "base1",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": ">=1.5.*",
+    "modernizr": "2.8.*",
+    "json3": "~3.3.*",
+    "es5-shim": "~4.0.*",
+    "console-shim": "*",
+    "respond": "1.4.*",
+    "jquery": "~1.11.0",
+    "bootstrap-sass-official": "~3.3.1",
+    "bootstrap": "~3.3.1",
+    "angular-resource": ">=1.5.*",
+    "angular-cookies": ">=1.5.*",
+    "angular-sanitize": ">=1.5.*",
+    "angular-bootstrap": "~0.12.0",
+    "font-awesome": ">=4.1.0",
+    "lodash": "~2.4.1",
+    "angular-socket-io": "~0.7.0",
+    "angular-ui-router": "~0.2.13"
+  },
+  "devDependencies": {
+    "angular-mocks": ">=1.5.*",
+    "angular-scenario": ">=1.5.*"
+  }
+}
